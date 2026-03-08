@@ -1,4 +1,4 @@
-本仓库是图书 《OpenClaw实战：智能体系统工程》 的配套资源仓库，用于提供与本书相关的学习资料、示例资源以及读者交流入口。
+<h2>本仓库是图书 《OpenClaw实战：智能体系统工程》 的配套资源仓库，用于提供与本书相关的学习资料、示例资源以及读者交流入口。</h2>
 
 本仓库的目标是帮助读者更好地理解 AI 智能体系统（AI Agent Systems） 的设计方法，并探索如何基于 OpenClaw 构建真实可运行的智能体系统。
 
@@ -57,8 +57,11 @@ Demo 项目分享
 加入 Discord 社区：
 
 本书更新声明  https://discord.gg/yJrDegXg
+<br />
 本书讨论和勘误 https://discord.gg/ygDVfuRP
+<br />
 OpenClaw技术讨论 https://discord.gg/2enEwcyC
+<br />
 
 勘误与反馈
 
