@@ -56,7 +56,9 @@ Demo 项目分享
 
 加入 Discord 社区：
 
-https://discord.gg/openclaw
+本书更新声明  https://discord.gg/yJrDegXg
+本书讨论和勘误 https://discord.gg/ygDVfuRP
+OpenClaw技术讨论 https://discord.gg/2enEwcyC
 
 勘误与反馈
 
